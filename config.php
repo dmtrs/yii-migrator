@@ -7,10 +7,10 @@ return array(
 	// application components
 	'components'=>array(
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=fosscomm',
+			'connectionString' => 'mysql:host=localhost;dbname=testdb',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => 'qwerty1',
+			'password' => '',
 			'charset' => 'utf8',
 		),
 	),

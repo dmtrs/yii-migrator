@@ -711,7 +711,7 @@ class YiiBase
 		'CSqliteColumnSchema' => '/db/schema/sqlite/CSqliteColumnSchema.php',
 		'CSqliteCommandBuilder' => '/db/schema/sqlite/CSqliteCommandBuilder.php',
 		'CSqliteSchema' => '/db/schema/sqlite/CSqliteSchema.php',
-		/**'CChoiceFormat' => '/i18n/CChoiceFormat.php',
+		'CChoiceFormat' => '/i18n/CChoiceFormat.php',
 		'CDateFormatter' => '/i18n/CDateFormatter.php',
 		'CDbMessageSource' => '/i18n/CDbMessageSource.php',
 		'CGettextMessageSource' => '/i18n/CGettextMessageSource.php',
@@ -721,7 +721,7 @@ class YiiBase
 		'CPhpMessageSource' => '/i18n/CPhpMessageSource.php',
 		'CGettextFile' => '/i18n/gettext/CGettextFile.php',
 		'CGettextMoFile' => '/i18n/gettext/CGettextMoFile.php',
-		'CGettextPoFile' => '/i18n/gettext/CGettextPoFile.php',**/
+		'CGettextPoFile' => '/i18n/gettext/CGettextPoFile.php',
 		'CDbLogRoute' => '/logging/CDbLogRoute.php',
 		'CEmailLogRoute' => '/logging/CEmailLogRoute.php',
 		'CFileLogRoute' => '/logging/CFileLogRoute.php',
